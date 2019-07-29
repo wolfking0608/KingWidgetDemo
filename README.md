@@ -1,3 +1,1 @@
-# KingWidgetDemo
-init
-一个各种小空间的依赖
+JackKnife帮助文档![Release](https://jitpack.io/v/JackWHLiu/jackknife.svg)  [![API](https://img.shields.io/badge/API-11%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=11)

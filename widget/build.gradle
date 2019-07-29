@@ -1,6 +1,6 @@
 apply plugin: 'com.android.library'
-apply plugin: 'com.github.dcendents.android-maven'
-group = 'com.github.wolfking0608'
+apply plugin: 'com.github.dcendents.android-maven'//第四步  添加这个依赖
+group = 'com.github.wolfking0608'//第五步,添加自己的github 账号  //第六步上传代码 并按照这个操作:https://www.jianshu.com/p/fa354c660130
 android {
     compileSdkVersion 28
     buildToolsVersion "29.0.0"
